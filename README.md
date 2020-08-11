@@ -1,2 +1,2 @@
 # Start-Stop
-A python game for beginners. This game is very important for developers. Maybe or maybe not?
+A python game for beginners. This game is very important for developers.
